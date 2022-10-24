@@ -10,7 +10,7 @@ git clone https://github.com/AmbroseOtundo/django_video_group_app
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd videochat
 pip install -r requirements.txt
 ```
 
